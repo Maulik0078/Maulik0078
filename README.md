@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maulik0078
-- 💻 Python Developer
+- 💻 Python Developer (AI/ML)
 - 👀 I’m interested in Data Science and Artificial intelligence
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me MaulikNMangukiya0078@gmail.com
